@@ -5,3 +5,6 @@ You can get the 3D model here: https://www.amphenol-cs.com/minitek-pwr-hybrid-3-
 The footprint is based on the 3D model. Hopefully the 3D model is correct.
 
 Feel free to improve on this design. Perhaps even pull request it.
+
+Currently it looks like this:
+![image](image/31-01-2023.jpg)
